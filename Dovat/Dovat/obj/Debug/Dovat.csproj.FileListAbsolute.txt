@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\LinhKhanh\Dovat\Dovat\bin\Debug\Dovat.exe.config
+C:\Users\Admin\Documents\LinhKhanh\Dovat\Dovat\bin\Debug\Dovat.exe
+C:\Users\Admin\Documents\LinhKhanh\Dovat\Dovat\bin\Debug\Dovat.pdb
+C:\Users\Admin\Documents\LinhKhanh\Dovat\Dovat\obj\Debug\Dovat.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\LinhKhanh\Dovat\Dovat\obj\Debug\Dovat.exe
+C:\Users\Admin\Documents\LinhKhanh\Dovat\Dovat\obj\Debug\Dovat.pdb
